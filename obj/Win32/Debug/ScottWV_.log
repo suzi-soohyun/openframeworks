@@ -1,0 +1,20 @@
+﻿  main.cpp
+  ofApp.cpp
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\main.cpp)
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\main.cpp)
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\main.cpp)
+C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\apps\myApps\ScottWV_\src\ofApp.cpp(60,2): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+     bin\ScottWV__debug.lib 라이브러리 및 bin\ScottWV__debug.exp 개체를 생성하고 있습니다.
+  ScottWV_.vcxproj -> C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\apps\myApps\ScottWV_\bin\ScottWV__debug.exe
+  
+  	                   2	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	    새 파일   		 1266176	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    새 파일   		 1312768	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *추가 파일  		 1266176	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\apps\myApps\ScottWV_\bin\fmodex.dll
+  	  *추가 파일  		 1312768	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\apps\myApps\ScottWV_\bin\fmodexL.dll
+  	    새 파일   		 6018560	C:\Users\lover\Desktop\Programming\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
